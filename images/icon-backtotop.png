@@ -1,0 +1,1985 @@
+<!doctype html>
+<html data-context="1" data-editor="Seite aktualisieren" data-gen-id="806f92ba2ff14d6f83d6067821b09561" data-id="1290" lang="en">
+  <head><meta content="width=device-width, initial-scale=1.0, minimum-scale=0.1, user-scalable=yes, shrink-to-fit=no" name="viewport"><meta charset="utf-8"><meta content="Batronix GmbH & Co. KG" name="author"><meta content="Tue, 31 Oct 2023 10:46:23" http-equiv="last-modified"><link href="/manifest.json" rel="manifest" type><meta content="#2a2a2a" name="theme-color"><link href="https://www.batronix.com/versand/404.html" hreflang="de" rel="alternate"><meta content="100002009281615" property="fb:admins"><link href="https://cdn.jsdelivr.net" rel="preconnect"><link href="https://stackpath.bootstrapcdn.com" rel="preconnect"><link href="https://use.fontawesome.com" rel="preconnect"><link href="https://code.jquery.com" rel="preconnect"><link href="https://cdnjs.cloudflare.com" rel="preconnect"><link href="https://www.google-analytics.com" rel="preconnect"><link href="https://support.batronix.com" rel="preconnect"><link href="https://widgets.trustedshops.com" rel="preconnect"><link href="https://staticw2.yotpo.com" rel="preconnect"><link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha256-L/W5Wfqfa0sdBNIKN9cG6QA5F2qx4qICmU2VgLruv9Y=" rel="stylesheet" type="text/css"><link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.7.2/css/all.min.css" integrity="sha256-nAmazAk6vS34Xqo0BSrTb+abbtFlgsFK7NKSi6o7Y78=" rel="stylesheet" type="text/css"><link href="https://www.batronix.com/css/bs.css?v=V1.31" rel="stylesheet" type="text/css"><link href="https://www.batronix.com/favicon.ico" rel="icon" type="image/x-icon"><title>Batronix - file not found!</title><meta content name="description"><script crossorigin="anonymous" src="https://polyfill.io/v3/polyfill.min.js?flags=gated&features=default%2C%7Ehtml5-elements%2ClocalStorage%2Cdocument.querySelector%2CNumber.parseInt%2CNumber.parseFloat%2CNumber.isNaN%2CNumber.isInteger%2CMutationObserver%2CJSON%2CFunction.prototype.bind%2CArray.prototype.indexOf%2CArray.prototype.map%2CArray.prototype.forEach%2CArray.prototype.filter%2CArray.isArray"></script><script></script></head>
+  <body data-context="1290" data-editor="Seite" data-id="-100">
+    <div class="wsmenucontainer clearfix">
+      <header class="top-header">
+        <div class="header_background">
+          <div class="container-fluid maxwidth header_container clearfix">
+            <div class="overlapblackbg"></div>
+            <div class="row">
+              <div class="d-lg-none col-1 clearfix mobile-icon">
+                <a class="animated-arrow" id="wsnavtoggle">
+                  <span></span>
+                </a>
+              </div>
+              <div class="col logo-container px-0">
+                <a href="/" title="Start">
+                  <img alt="Batronix Logo (orange/black)" class="ml-1" id="header_logo" src="https://www.batronix.com/images/svg/batronix-logo.svg" title="Batronix Logo">
+                </a>
+                <div class="d-none d-md-inline-block ml-3" id="header_slogan">Innovative Tools. Excellent Service.</div>
+              </div>
+              <div class="d-none d-lg-block col-sm-5">
+                <div class="row">
+                  <div class="d-none d-lg-block col-sm-7 text-right" id="header_contact">
+                    <a href="&#x6D;&#x61;&#x69;&#x6C;&#x74;&#x6F;&#x3A;&#x73;&#x65;&#x72;&#x76;&#x69;&#x63;&#x65;&#x40;&#x62;&#x61;&#x74;&#x72;&#x6F;&#x6E;&#x69;&#x78;&#x2E;&#x63;&#x6F;&#x6D;"><i class="far fa-envelope fa-fw"></i> &#x73;&#x65;&#x72;&#x76;&#x69;&#x63;&#x65;&#x40;&#x62;&#x61;&#x74;&#x72;&#x6F;&#x6E;&#x69;&#x78;&#x2E;&#x63;&#x6F;&#x6D;</a>
+                  </div>
+                  <div class="d-none col-sm-5 text-right d-lg-block" id="header_contact">
+                    <a href="tel:+4943429078630"><i class="fa fa-phone fa-fw"></i> +49 4342 90786-30</a>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="d-none d-lg-block col-sm-12 text-right pl-0" id="header_location">
+                    <a aria-haspopup="true" class="locationinfo" href="javascript: void(0);">
+                      <i class="fas fa-angle-down fa-fw"></i>
+                      <span id="locationType">Private customer</span>
+                      <span class="divider">|</span>
+                      <span id="locationName">Germany</span>
+                      <span class="divider">|</span>
+                      <span>EN</span>
+                    </a>
+                  </div>
+                </div>
+                <div class="d-none" id="header_location_selector">
+                  <form action="javascript: void(0);" method="get">
+                    <label for="langSel">Language</label>
+                    <div class="row">
+                      <div class="col">
+                        <div class="form-check">
+                          <input class="form-check-input" id="langSelDe" name="langSel" type="radio" value="de">
+                          <label for="langSelDe">German</label>
+                        </div>
+                      </div>
+                      <div class="col">
+                        <div class="form-check">
+                          <input checked class="form-check-input" id="langSelEn" name="langSel" type="radio" value="en">
+                          <label for="langSelEn">English</label>
+                        </div>
+                      </div>
+                    </div>
+                    <label for="typeSel">Customer Type</label>
+                    <div class="form-check">
+                      <input checked class="form-check-input" id="typeSelPriv" name="typeSel" type="radio" value="1">
+                      <label for="typeSelPriv">Private customer</label>
+                    </div>
+                    <div class="form-check">
+                      <input class="form-check-input" id="typeSelComp" name="typeSel" type="radio" value="2">
+                      <label for="typeSelComp">Business customer</label>
+                    </div>
+                    <div class="form-check">
+                      <input class="form-check-input" id="typeSelEdu" name="typeSel" type="radio" value="3">
+                      <label for="typeSelEdu">School, College, University, Institute</label>
+                    </div>
+                    <label for="locCountrySel">Country</label>
+                    <select class="form-control" id="locCountrySel">
+                      <option value="52">Deutschland</option>
+                    </select>
+                    <div class="row">
+                      <div class="col mt-1 text-right">
+                        <a class="cookieConsent" href="#" onclick="$(CssSelector.LocationLink).popover('hide'); klaro.show(klaroConfig, true); return false;">Manage services</a>
+                      </div>
+                    </div>
+                    <hr>
+                    <div class="row">
+                      <div class="col"></div>
+                      <div class="col">
+                        <button class="btn btn-primary btn-block" id="locationSave" type="button">OK</button>
+                      </div>
+                    </div>
+                  </form>
+                </div>
+              </div>
+              <div class="wsbtticon d-lg-none col-1 mobile-icon ">
+                <a data-original-title="back to top" data-toggle="tooltip" href="javascript: void(0);">
+                  <i class="fas fa-step-backward"></i>
+                </a>
+              </div>
+              <div class="d-lg-none col-1 mobile-icon wsfiltericon">
+                <a data-original-title="No filter available." data-target="#filterdialog" data-toggle="tooltip" href="javascript: void(0);">
+                  <i class="fa far fa-filter"></i>
+                </a>
+              </div>
+              <div aria-haspopup="true" class="d-lg-none col-1 mobile-icon locationinfo">
+                <a href="javascript: void(0);">
+                  <i class="fa fa-globe"></i>
+                </a>
+              </div>
+              <div aria-haspopup="true" class="d-lg-none col-1 mobile-icon carticon cartinfo">
+                <a href="javascript: void(0);">
+                  <i class="fa fa-shopping-basket"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+      <div class="mainmenu_background">
+        <div class="container-fluid maxwidth mainmenu_container clearfix">
+          <div class="row">
+            <div class="wsmain col-sm-12 pl-0 pr-0" data-context="DEV_MainMenu" data-editor="Slide" data-id="48">
+              <nav class="wsmenu clearfix">
+                <ul class="mobile-sub wsmenu-list">
+                  <li aria-haspopup="true" data-context="Measurement" data-editor="Hauptmenü" data-id="1" data-pageid="2703">
+                    <a href="javascript:;"><i class="fa fas fa-signature"></i>Measurement</a>
+                    <div class="wsshoptabing wtsdepartmentmenu clearfix">
+                      <div class="wsshopwp clearfix">
+                        <ul class="wstabitem clearfix">
+                          <li aria-haspopup="true" class="wsshoplink-active">
+                            <a href="javascript:;">Oscilloscopes</a>
+                            <div class="wstitemright clearfix wstitemrightactive">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Overview</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/oscilloscopes/DSO.html">All Oscilloscopes</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/downloads/index.html">Downloads</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/oscilloscopes/no-longer-available.html">No longer available</a>
+                                      </li>
+                                    </ul>
+                                    <div class="wstheading clearfix">Rohde &amp; Schwarz</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rohde-schwarz/all-oscilloscope.html">All R&amp;S Oscilloscopes</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/measurement-instruments/Rohde-Schwarz-oszilloscope.html">Series overview</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rohde-schwarz/RTC1000.html">RTC1000</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rohde-schwarz/RTB2000.html">RTB2000</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rohde-schwarz/RTM3000.html">RTM3000</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rohde-schwarz/RTA4000.html">RTA4000</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rohde-schwarz/RTE1000.html">RTE1000</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rohde-schwarz/RTH.html">RTH1000</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rohde-schwarz/MXO4.html">MXO 4</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rohde-schwarz/MXO5.html">MXO 5</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Rigol</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/all-oscilloscope.html">All Rigol Oscilloscopes</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/measurement-instruments/Rigol-oszilloscope.html">Series overview</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/DS1000.html">DS1000D/E</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/DS1000Z.html">DS1000Z/Plus</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/DS1000Z-E.html">DS1000Z-E</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/DS2000A.html">DS2000A</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/MSO2000A.html">MSO2000A</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/MSO5000E.html">MSO5000E</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/MSO5000.html">MSO5000</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/DS7000.html">DS7000</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/MSO7000.html">MSO7000</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/MSO8000.html">MSO8000</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/MSO8000A.html">MSO8000A</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/DS70000.html">DS70000</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/DHO800.html">DHO800</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/DHO900.html">DHO900</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/DHO4000.html">DHO4000</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Siglent</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/siglent/all-oscilloscope.html">All Siglent Oscilloscopes </a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/measurement-instruments/Siglentl-oszilloscope.html">Series overview</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/siglent/Siglent-SDS1000X-U.html">SDS1000X-U</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/siglent/Siglent-SDS1000X-E.html">SDS1000X-E</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/siglent/Siglent-SDS2000X-E.html">SDS2000X-E</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/oscilloscopes/Siglent-SDS2000X-plus.html">SDS2000X Plus</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/oscilloscopes/Siglent-SDS2000X-hd.html">SDS2000X HD</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/oscilloscopes/Siglent-SDS5000X.html">SDS5000X</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/oscilloscopes/Siglent-SDS6000A.html">SDS6000A</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/oscilloscopes/Siglent-SHS-X.html">SHS-X</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Pico Technology</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/pico/all-oscilloscopes.html">All Pico Oscilloscopes</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/measurement-instruments/Pico-oszilloscope.html">Series overview</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/pico/PicoScope2000A.html">PicoScope 2000A</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/pico/PicoScope2000B.html">PicoScope 2000B</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/pico/PicoScope3000.html">PicoScope 3000</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/pico/PicoScope4000.html">PicoScope 4000</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/pico/PicoScope5000.html">PicoScope 5000</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/pico/PicoScope6000E.html">PicoScope 6000E</a>
+                                      </li>
+                                    </ul>
+                                    <div class="wstheading clearfix">Micsig</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/oscilloscopes/Micsig-tBook.html">All Micsig Oscilloscopes</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/measurement-instruments/Micsig-oszilloscope.html">Series overview</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/micsig/STO-SATO1004.html">STO/SATO</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/micsig/TO.html">TO</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/micsig/ATO.html">ATO</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/micsig/STO1002C.html">STO1000C</a>
+                                      </li>
+                                    </ul>
+                                    <div class="wstheading clearfix">Other Brands</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/oscilloscopes/LabNation-Smartscope.html">LabNation SmartScope</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                          <li aria-haspopup="true">
+                            <a href="javascript:;">Probes</a>
+                            <div class="wstitemright clearfix">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Overview</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/probes.html">All Probes</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/passive-probes.html">Passive Probes</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/active-probes.html">Active Probes</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/differential-probes.html">Differential Probes</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/high-voltage-probes.html">High Voltage Probes</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/current-probes.html">Current Probes</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/probes/no-longer-available.html">No longer available</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Rohde &amp; Schwarz</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rohde-schwarz/all-probes.html">All R&amp;S Probes </a>
+                                      </li>
+                                    </ul>
+                                    <div class="wstheading clearfix">Rigol</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/all-probes.html">All Rigol Probes</a>
+                                      </li>
+                                    </ul>
+                                    <div class="wstheading clearfix">Siglent</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/siglent/all-probes.html">All Siglent Probes</a>
+                                      </li>
+                                    </ul>
+                                    <div class="wstheading clearfix">Micsig</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/micsig/all-probes.html">All Micsig Probes</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">PMK</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/pmk/all-probes.html">All PMK Probes</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/pmk/Tetris.html">Tetris</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/pmk/Sonic.html">Sonic</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/pmk/BumbleBee.html">BumbleBee</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/pmk/PML.html">PML High-Z</a>
+                                      </li>
+                                    </ul>
+                                    <div class="wstheading clearfix">Testec</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/testec/all-probes.html">All Testec Probes</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Sensepeek</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/sensepeek/pcb-holder.html">Hands-free Probes &amp; PCB Holders</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                          <li aria-haspopup="true">
+                            <a href="javascript:;">Spectrum Analyzers &amp; VNA</a>
+                            <div class="wstitemright clearfix">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Overview</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/spectrum-analyzer/index.html">Spectrum Analyzers</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/vector-network-analyzer/index.html">Network Analyzers</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/downloads/index.html">Downloads</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/spectrum-analyzer/no-longer-available.html">No longer available</a>
+                                      </li>
+                                    </ul>
+                                    <div class="wstheading clearfix">Rohde &amp; Schwarz</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rohde-schwarz/all-spectrumanalyzer.html">All from R&amp;S</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rohde-schwarz/FPC1000.html">FPC1000</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/spectrum-analyzer/Rohde-Schwarz-FPC1500.html">FPC1500</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rohde-schwarz/FSC.html">FSC</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rohde-schwarz/FPL1000.html">FPL1000</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rohde-schwarz/FPH.html">FPH Handheld</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Rigol</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/all-spectrumanalyzer.html">All from Rigol</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/DSA700.html">DSA700</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/spectrum-analyzer/DSA800.html">DSA800</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/spectrum-analyzer/RSA3000.html">RSA3000</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/spectrum-analyzer/RSA3000E.html">RSA3000E</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/spectrum-analyzer/RSA5000.html">RSA5000</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Siglent</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/siglent/all-spectrumanalyzer.html">All from Siglent</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/spectrum-analyzer/SVA1000X.html">SVA1000X</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/spectrum-analyzer/SSA3000X.html">SSA3000X / Plus</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/spectrum-analyzer/SSA3000X-R.html">SSA3000X-R</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/spectrum-analyzer/SSA5000A.html">SSA5000A</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/siglent/SNA5000A.html">SNA5000A</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/spectrum-analyzer/SHA800A.html">SHA800</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Pico Technology</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/pico-vector-network-analyzer/index.html">Pico VNA</a>
+                                      </li>
+                                    </ul>
+                                    <div class="wstheading clearfix">TekBox</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc="Tekbox EMCview is a PC-software for user friendly EMC pre-compliance testing of radiated and conducted emissions." data-image="https://www.batronix.com/images/generated/emcview-main-220x114-White-b.jpg">
+                                        <a href="https://www.batronix.com/shop/software/tekbox/emcview.html">EMCview Software</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                          <li aria-haspopup="true">
+                            <a href="javascript:;">Waveform Generators</a>
+                            <div class="wstitemright clearfix">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Overview</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/waveform-generator/index.html">Waveform Generators</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/downloads/index.html">Downloads</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/waveform-generator/no-longer-available.html">No longer available</a>
+                                      </li>
+                                    </ul>
+                                    <div class="wstheading clearfix">Rohde &amp; Schwarz</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rohde-schwarz/HMF2500.html">HMF2500</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Rigol</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/all-generators.html">All from Rigol</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/DG800.html">DG800</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/DG900.html">DG900</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/DG1000.html">DG1000</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/DG1000Z.html">DG1000Z</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/DG2000.html">DG2000</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/DG4000.html">DG4000</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/DG5000.html">DG5000</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Siglent</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/siglent/all-generators.html">All from Siglent</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/siglent/SDG800_SDG1000.html">SDG800/1000</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/siglent/SDG1000X.html">SDG1000X</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/siglent/SDG2000X.html">SDG2000X</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/siglent/SDG6000X.html">SDG6000X</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/siglent/SDG7000A.html">SDG7000A</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">UNI-T</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/waveform-generator/UNI-T-UTG932E.html">UTG932E</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/waveform-generator/UNI-T-UTG962E.html">UTG962E</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                          <li aria-haspopup="true">
+                            <a href="javascript:;">Signal Generators</a>
+                            <div class="wstitemright clearfix">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Overview</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/signal-generator/index.html">All Signal Generators</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/downloads/index.html">Downloads</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/signal-generator/no-longer-available.html">No longer available</a>
+                                      </li>
+                                    </ul>
+                                    <div class="wstheading clearfix">Rohde &amp; Schwarz</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rohde-schwarz/smb100b.html">SMB100B</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Rigol</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/DSG800.html">DSG800</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/DSG3000B.html">DSG3000B</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Siglent</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/siglent/SSG3000X.html">SSG3000X</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/siglent/SSG5000X.html">SSG5000X</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/siglent/SSG5000A.html">SSG5000A</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/siglent/SSG6000A.html">SSG6000A</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                          <li aria-haspopup="true">
+                            <a href="javascript:;">Logic Analyzers</a>
+                            <div class="wstitemright clearfix">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Overview</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/logic-analyzer/index.html">All Logic Analyzers</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/downloads/index.html">Downloads</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Saleae</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/logic-analyzer/Saleae.html">All Saleae Logic Analyzers</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/logic-analyzer/Saleae-Logic8.html">Logic 8</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/logic-analyzer/Saleae-Logic-pro-8.html">Logic Pro 8</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/logic-analyzer/Saleae-LogicPro16.html">Logic Pro 16</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">LabNation</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/oscilloscopes/LabNation-Smartscope.html">SmartScope</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                          <li aria-haspopup="true">
+                            <a href="javascript:;">Multimeters</a>
+                            <div class="wstitemright clearfix">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Overview</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/multimeter/handheld-multimeter.html">Handheld Multimeters</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/multimeter/multimeter.html">Desktop Multimeters</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/lcr-meter/index.html">LCR Meter</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/multimeter/clamp-multimeter.html">Clamp Meters</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/multimeter/voltage-tester.html">Voltage Tester</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/more-measurement/DAQ.html">Data Acquisition Systems (DAQ)</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/downloads/index.html">Downloads</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/multimeter/hand-no-longer-available.html">No longer available Handheld Multimeters</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/multimeter/no-longer-available.html">No longer available Desktop Multimeters</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Rigol</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/DM3000.html">DM3000</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Siglent</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/siglent/SDM3000.html">SDM3000</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">UNI-T</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/uni-t/all-multimeters.html">All UNI-T Multimeters</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/multimeter/uni-t/UT161.html">UT161</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/multimeter/uni-t/UT191.html">UT191</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/multimeter/automotive-multimeter.html">UT195</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                          <li aria-haspopup="true">
+                            <a href="javascript:;">Thermal Cameras</a>
+                            <div class="wstitemright clearfix">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Overview</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/thermal-cameras/index.html">All Thermal Cameras</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/thermometer/thermometer.html">All IR Thermometers</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/downloads/index.html">Downloads</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">HIKMICRO</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/thermal-cameras/hikmicro.html">All HIKMICRO Thermal Cameras</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/thermal-cameras/hikmicro-thermal-cameras.html">Series overview</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/thermal-cameras/hikmicro/hikmicro-Mini.html">Mini</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/thermal-cameras/hikmicro/hikmicro-Pocket.html">Pocket</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/thermal-cameras/hikmicro/hikmicro-Eco.html">Eco</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/thermal-cameras/hikmicro/hikmicro-B.html">B-Series</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/thermal-cameras/hikmicro/hikmicro-M.html">M-Series</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/thermal-cameras/hikmicro/hikmicro-G.html">G-Series</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">UNI-T</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/thermal-cameras/UNI-T.html">All UNI-T Thermal Cameras</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/thermometer/thermometer.html">All UNI-T IR Thermometers</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Seek</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/thermal-cameras/Seek.html">All Seek Thermal Cameras</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                          <li aria-haspopup="true">
+                            <a href="javascript:;">EMC Pre-compliance</a>
+                            <div class="wstitemright clearfix">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Overview</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/network-simulations/index.html">Line Impedance Stabilisation Networks (LISN)</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/antennas.html">Antennas</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/nf-probes.html">Near Field Probes</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/tem-cells.html">TEM-Cells</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/shielding.html">EMV Shielding</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/Cable.html">Cables and Test Leads</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/pre-Amplifier.html">Pre Amplifiers</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/power-Amplifier.html">Power Amplifiers</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/software/tekbox/emcview.html">EMCview Software</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href>CDN</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/comb-generators.html">Comb Generators</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                          <li aria-haspopup="true">
+                            <a href="javascript:;">Other Measuring Devices</a>
+                            <div class="wstitemright clearfix">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">LCR Meters</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/lcr-meter/index.html">All LCR Meters</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/lcr-meter/Rohde-Schwarz.html">R&amp;S LCX</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/lcr-meter/lcr-research.html">LCR Research</a>
+                                      </li>
+                                    </ul>
+                                    <div class="wstheading clearfix">Voltage Testers</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/multimeter/voltage-tester.html">All Voltage Testers</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Data Acquisition Systems</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/more-measurement/DAQ.html">All DAQ / Logger</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/more-measurement/DAQ/M300.html">Rigol M300</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/DAQ-data-logger/PicoLog.html">Pico Data logger</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Cable and Antenna Analyzers</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/more-measurement/Rohde-Schwarz-ZPH.html">All Analyzers</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Power Analyzers</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/more-measurement/poweranalyzer.html">All Power Analyzers</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                          <li aria-haspopup="true">
+                            <a href="javascript:;">Accessories</a>
+                            <div class="wstitemright clearfix">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Overview</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/probes.html">Measurement Probes</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/sensepeek/pcb-holder.html">Hands-free Probes &amp; PCB Holders</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/Cable.html">Cables and Test Leads</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/adapter.html">Adapter and Plugs</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/demoboards/demoboards.html">Demoboards</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/USB-isolators.html">USB Isolators</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/akkus.html">Batteries</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/bags.html">Bags and Cases</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/general.html">General Accessories</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">HF / RF / EMC</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/nf-probes.html">Near Field Probes</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/antennas.html">Antennas</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/current-monitoring-probes.html">RF Current Probes</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/pre-Amplifier.html">Pre Amplifiers</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/power-Amplifier.html">Power Amplifiers</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/calibration-kits.html">Calibration Kits</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/shielding.html">EMV Shielding</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/tem-cells.html">TEM-Cells</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                          <li aria-haspopup="true">
+                            <a href="javascript:;">Know-How</a>
+                            <div class="wstitemright clearfix">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-12 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">EMC Compliance Testing</div>
+                                    <ul class="wstliststy02 clearfix">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/know-how/emv-emc-pre-compliance-tests.html">EMC compliance testing (in German)</a>
+                                      </li>
+                                    </ul>
+                                    <div class="wstheading clearfix">Other</div>
+                                    <ul class="wstliststy02 clearfix">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/know-how/op-amp.html">Operational Amplifier (in German)</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </li>
+                  <li aria-haspopup="true" data-context="Power" data-editor="Hauptmenü" data-id="1" data-pageid="2977">
+                    <a href="javascript:;"><i class="fa fas fa-bolt"></i>Power</a>
+                    <div class="wsshoptabing wtsdepartmentmenu clearfix">
+                      <div class="wsshopwp clearfix">
+                        <ul class="wstabitem clearfix">
+                          <li aria-haspopup="true" class="wsshoplink-active">
+                            <a href="javascript:;">DC Power Supplies</a>
+                            <div class="wstitemright clearfix wstitemrightactive">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Overview</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/power-supplies/power-supplies.html">DC Power Supplies</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/power/no-longer-available.html">No longer available</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Rohde &amp; Schwarz</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rohde-schwarz/powersupplies.html">All R&amp;S Power Supplies</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rohde-schwarz/NGE100.html">NGE100</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rohde-schwarz/NGL200.html">NGL200</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rohde-schwarz/NGP800.html">NGP800</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rohde-schwarz/hmc804X.html">HMC804X</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rohde-schwarz/HMP2000-HMP4000.html">HMP2000/HMP4000</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Rigol</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/DP700.html">DP700</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/DP800.html">DP800</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/DP900.html">DP900</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/DP2000.html">DP2000</a>
+                                      </li>
+                                    </ul>
+                                    <div class="wstheading clearfix">Siglent</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/power-supplies/SPD1168X.html">SPD1000X</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/power-supplies/SPD3303C.html">SPD3000C</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/siglent/SPD3000X.html">SPD3000X</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/siglent/SPS5000X.html">SPS5000X</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                          <li aria-haspopup="true">
+                            <div class="wstitemright clearfix">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Overview</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/power-supplies/ac-supplies.html">All AC Supplies</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/downloads/index.html">Downloads</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">ITECH</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/itech/IT7300.html">IT7300</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                          <li aria-haspopup="true">
+                            <a href="javascript:;">Electronic DC Loads</a>
+                            <div class="wstitemright clearfix">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Overview</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/load/loads.html">All Electronic DC Loads</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/downloads/index.html">Downloads</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Keysight</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/keysight/EL30000.html">EL30000</a>
+                                      </li>
+                                    </ul>
+                                    <div class="wstheading clearfix">Rigol</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rigol/DL3000.html">DL3000</a>
+                                      </li>
+                                    </ul>
+                                    <div class="wstheading clearfix">Siglent</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/siglent/SDL1000X.html">SDL1000X</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                          <li aria-haspopup="true">
+                            <div class="wstitemright clearfix">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Overview</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/load/ac-dc-loads.html">All AC + DC Loads</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">ITECH</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/itech/IT8600.html">IT8600</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                          <li aria-haspopup="true">
+                            <a href="javascript:;">Power Analyzers</a>
+                            <div class="wstitemright clearfix">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Overview</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/load/powermeters.html">All Power Analyzers</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/power-analyzer/no-longer-available.html">No longer available</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Rohde &amp; Schwarz</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/measurement-instruments/Rohde-Schwarz-powermeter.html">HMC8000</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                          <li aria-haspopup="true">
+                            <a href="javascript:;">Source Measure Units (SMU)</a>
+                            <div class="wstitemright clearfix">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Overview</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/SMU/all-SMU.html">All SMU</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Rohde &amp; Schwarz</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/rohde-schwarz/NGU.html">NGU</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                          <li aria-haspopup="true">
+                            <div class="wstitemright clearfix">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Overview</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/load/battery-tester.html">All Battery Tester</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">ITECH</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/load/ITECH-IT5100.html">IT5100</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/itech/IT6400.html">IT6400</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </li>
+                  <li aria-haspopup="true" data-context="Programmers" data-editor="Hauptmenü" data-id="1" data-pageid="2702">
+                    <a href="javascript:;"><i class="fa fas fa-microchip"></i>Programmers</a>
+                    <div class="wsshoptabing wtsdepartmentmenu clearfix">
+                      <div class="wsshopwp clearfix">
+                        <ul class="wstabitem clearfix">
+                          <li aria-haspopup="true" class="wsshoplink-active">
+                            <a href="javascript:;">Programmers</a>
+                            <div class="wstitemright clearfix wstitemrightactive">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Overview</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/programmer/programmers.html">All Programmers</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/downloads/index.html">Downloads</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/programmer/no-longer-available.html">No longer available</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Batronix</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/programmer/BX32P/index.html">BX32P Barlino II</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/programmer/BX40/index.html">BX40 Bagero II</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/programmer/BX48/batego-II.html">BX48 Batego II</a>
+                                      </li>
+                                    </ul>
+                                    <div class="wstheading clearfix">Batronix Software</div>
+                                    <ul class="wstliststy02 clearfix">
+                                      <li data-desc="Prog-Express is a modern, intuitive and free control software for the Batronix USB programming devices." data-image="https://www.batronix.com/images/generated/prog-express-productbox-220x345-White-b.jpg">
+                                        <a href="https://www.batronix.com/shop/software/prog-express/index.html">Prog-Express (Free)</a>
+                                      </li>
+                                      <li data-desc="Adds 2D and 3D data views and automatic engine map detection to Prog-Express." data-image="https://www.batronix.com/images/generated/chip-tuner-productbox-220x351-White-b.jpg">
+                                        <a href="https://www.batronix.com/shop/software/chip-tuner/chip-tuning.html">Chip Tuner Module</a>
+                                      </li>
+                                      <li data-desc="Prog-Studio is a modern, comprehensive, and very productive micro-controller development environment for industry standard 8051 (MCS-51) microcontroller architecture chips." data-image="https://www.batronix.com/images/generated/prog-studio-productbox-220x354-White-b.jpg">
+                                        <a href="https://www.batronix.com/shop/software/prog-studio/index.html">Prog-Studio 9</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/software/prog-studio6/assembler.html">Prog-Studio 6</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Conitec</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/programmer/galep5/index.html">Galep 5</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/programmer/galep5/galep5d.html">Galep 5D-60</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/programmer/galep5/galep5d-120.html">Galep 5D-120</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/programmer/galep5/galep5d-240.html">Galep 5D-240</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Elnec</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/programmer/beeprog/beeprog2.html">BeeProg 2</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/programmer/beeprog/beeprog2c.html">BeeProg 2C</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                          <li aria-haspopup="true">
+                            <a href="javascript:;">Adapters</a>
+                            <div class="wstitemright clearfix">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Overview</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/adapter/index.html">All Adapters</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-9 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Adapter Types</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:3">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/adapter/plcc-adapter.html">PLCC</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/adapter/qfp-adapter.html">QFP, PQFP and TQFP</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/adapter/bga-adapter.html">BGA</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/adapter/sop-adapter.html">SOP, SOIC and PSOP</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/adapter/wson-adapter.html">QFN, SON and SAP</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/adapter/isp-adapter.html">ISP</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/adapter/tsop-adapter.html">TSOP and SSOP</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                          <li aria-haspopup="true">
+                            <a href="javascript:;">Components / Chips</a>
+                            <div class="wstitemright clearfix">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Overview</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/chips/index.html">All Chips</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/sockets/index.html">Lever Sockets</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/accessory/programmer.html">Accessories</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-9 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Chips</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:3">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/chips/eproms.html">Eproms and EEproms</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/chips/flash-eproms.html">Flash Eproms</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/chips/serial-eeproms.html">Serial EEproms</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/chips/microcontroller.html">Microcontroller</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                          <li aria-haspopup="true">
+                            <a href="javascript:;">Know-How</a>
+                            <div class="wstitemright clearfix">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Basic Information</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/electronic/eprom-programming.html">Memory Chips</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/electronic/bosch-part-numbers.html">Bosch Part Numbers</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/electronic/chip-packages.html">Chip Packages</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </li>
+                  <li aria-haspopup="true" data-context="Soldering " data-editor="Hauptmenü" data-id="1" data-pageid="2704">
+                    <a href="javascript:;"><i class="fa fas fa-fire"></i>Soldering </a>
+                    <div class="wsshoptabing wtsdepartmentmenu clearfix">
+                      <div class="wsshopwp clearfix">
+                        <ul class="wstabitem clearfix">
+                          <li aria-haspopup="true" class="wsshoplink-active">
+                            <a href="javascript:;">Soldering Stations</a>
+                            <div class="wstitemright clearfix wstitemrightactive">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Overview</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/soldering-stations/index.html">All stations</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/tips/index.html">All Soldering Tips</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/downloads/index.html">Downloads</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/soldering-stations/no-longer-available.html">No longer available</a>
+                                      </li>
+                                    </ul>
+                                    <div class="wstheading clearfix">Ersa</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/soldering-stations/ersa.html">All Ersa stations</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/soldering-stations/ersa/RDS80.html">RDS 80</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/soldering-stations/ersa/i-CON1.html">i-CON 1</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">JBC</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/soldering-stations/jbc/index.html">All JBC stations</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/soldering-stations/jbc/compact_line.html">Compact Line</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/soldering-stations/jbc/premium_line.html">Premium Line</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/soldering-stations/jbc/precision.html">High Precision</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">JBC Modular Line</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/soldering-stations/jbc/modular_line.html">Base Stations</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/accessories/jbc/handles.html">Soldering Irons</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/accessories/jbc/stands.html">Stands</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/accessories/jbc/moduls.html">Modules</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Weller</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/soldering-stations/weller.html">All Weller stations</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/soldering-stations/weller/WE1010.html">WE 1010</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/soldering-stations/weller/WT1012.html">WT 1012</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/soldering-stations/weller/WX1010.html">WX 1010</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                          <li aria-haspopup="true">
+                            <a href="javascript:;">Soldering Tips</a>
+                            <div class="wstitemright clearfix">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">JBC Soldering Tips</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/tips/jbc/c105.html">C105</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/tips/jbc/c115.html">C115</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/tips/jbc/c120.html">C120</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/tips/jbc/c210.html">C210</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/tips/jbc/c245.html">C245</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/tips/jbc/c250.html">C250</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/tips/jbc/c360.html">C360</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/tips/jbc/c420.html">C420</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/tips/jbc/c470.html">C470</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/tips/jbc/c560.html">C560</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/tips/jbc/sg1070.html">SG1070</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/tips/jbc/sl2020.html">SL2020</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Atten Soldering Tips</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/tips.html">Atten</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                          <li aria-haspopup="true">
+                            <a href="javascript:;">Hot Air Stations</a>
+                            <div class="wstitemright clearfix">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Overview</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/hot-air-stations/index.html">All Devices</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/downloads/index.html">Downloads</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">JBC</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/hot-air-stations/jbc/index.html">All JBC Stations</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                          <li aria-haspopup="true">
+                            <a href="javascript:;">Other Soldering Tools</a>
+                            <div class="wstitemright clearfix">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-3 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Overview</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:1">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/fume-extractor/jbc/index.html">Fume Extractors</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/accessories/jbc/preheater.html">Preheaters</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                          <li aria-haspopup="true">
+                            <a href="javascript:;">Accessories</a>
+                            <div class="wstitemright clearfix">
+                              <div class="container-fluid">
+                                <div class="row wsmenurow m-0">
+                                  <div class="col-12 col-lg-12 px-0 px-lg-1 clearfix">
+                                    <div class="wstheading clearfix">Overview</div>
+                                    <ul class="wstliststy02 clearfix" style="column-count:4">
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/accessories/solderwire.html">Solder Wire / Solder Paste</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/tips/index.html">Soldering Tips</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/accessories/flux.html">Flux</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/accessories/cleaning.html">Cleaning Supplies</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/accessories/jbc/index.html">Additional Materials</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/soldering/nozzles.html">Atten Hot-Air Nozzles</a>
+                                      </li>
+                                      <li data-desc data-image>
+                                        <a href="https://www.batronix.com/shop/sensepeek/pcb-holder.html">PCB Holders</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </li>
+                  <li data-context="SALES%" data-editor="Hauptmenü" data-id="1" data-pageid="2887">
+                    <a href="https://www.batronix.com/shop/sales/index.html"><i class="fa fas fa-euro-sign"></i>SALES%</a>
+                  </li>
+                  <li aria-haspopup="false" class="wscarticon cartinfo clearfix">
+                    <a href="/php/index.php?cmd=cart&loc=en"><i class="fa fa-shopping-basket"></i><span class="mobiletext">Your Cart</span> </a>
+                  </li>
+                  <li aria-haspopup="true" class="wsdropdown clearfix">
+                    <a class="wtxaccountlink" href="/php/index.php?cmd=dologin&loc=en"><i class="fa fas fa-user"></i><span class="mobiletext">Account</span><i class="fa fa-angle-down"></i> </a>
+                    <ul class="wsmenu-submenu">
+                      <li>
+                        <a href="/php/index.php?cmd=dologin&loc=en"><i class="fa fas fa-user"></i>Account</a>
+                      </li>
+                      <li>
+                        <a href="#" onClick="klaro.show(klaroConfig, true); return false;"><i class="fa fas fa-cogs"></i>Manage services</a>
+                      </li>
+                      <li>
+                        <a href="/shop/electronic/newsletter.html"><i class="fa far fa-newspaper"></i>Newsletter</a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li aria-haspopup="true" class="wsdropdown clearfix">
+                    <a class="wtxdropdownlink" href="https://support.batronix.com/index.php?/Default/Tickets/Submit"><i class="fa fas fa-question"></i><span class="mobiletext">Support</span><i class="fa fa-angle-down"></i> </a>
+                    <ul class="wsmenu-submenu">
+                      <li>
+                        <a href="&#x6D;&#x61;&#x69;&#x6C;&#x74;&#x6F;&#x3A;&#x73;&#x65;&#x72;&#x76;&#x69;&#x63;&#x65;&#x40;&#x62;&#x61;&#x74;&#x72;&#x6F;&#x6E;&#x69;&#x78;&#x2E;&#x63;&#x6F;&#x6D;"><i class="fa fa-envelope"></i>&#x73;&#x65;&#x72;&#x76;&#x69;&#x63;&#x65;&#x40;&#x62;&#x61;&#x74;&#x72;&#x6F;&#x6E;&#x69;&#x78;&#x2E;&#x63;&#x6F;&#x6D;</a>
+                      </li>
+                      <li>
+                        <a href="https://support.batronix.com/index.php?/Default/Tickets/Submit"><i class="fa far fa-question-circle"></i>Online Ticket</a>
+                      </li>
+                      <li>
+                        <a href="javascript: void(0);" onclick="OpenChatLink('en')"><i class="fa far fa-comment"></i>Live Chat</a>
+                      </li>
+                      <li>
+                        <a href="tel:+4943429078630"><i class="fa fa-phone"></i>Phone <span class="float-right mx-3">+49 4342 90786-30</span></a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="wsfiltericon clearfix" id="filterbutton">
+                    <a data-original-title="No filter available." data-target="#filterdialog" data-toggle="tooltip" href="javascript: void(0);"><i class="fa far fa-filter"></i><span class="mobiletext">Filter</span> </a>
+                  </li>
+                  <li class="wssearchbar clearfix">
+                    <form action="https://www.batronix.com/php/index.php" class="topmenusearch" method="post">
+                      <input name="cmd" type="hidden" value="find">
+                      <input name="loc" type="hidden" value="en">
+                      <input name="query" placeholder="search...">
+                      <button class="btnstyle">
+                        <i aria-hidden="true" class="searchicon fa fa-search"></i>
+                      </button>
+                    </form>
+                  </li>
+                  <li class="wslang clearfix mobiletext">
+                    <a href="https://www.batronix.com/versand/404.html">
+                      <img alt="Deutsch" class="header_langimg" src="https://www.batronix.com/images/generated/flagge-deutschland-klein-16x11-Transparent-b.png" width="16">
+                      <span class="mobiletext">Deutsch</span>
+                    </a>
+                  </li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="wsmenucontainer clearfix" id="page-container">
+        <div class="container-fluid maxwidth clearfix bgwhite">
+          <div class="row">
+            <div class="col">
+              <div class="row">
+                <div class="col-12 pl-0 pr-0">
+                  <nav aria-label="breadcrumb" data-context="DEV_websiteQuickMenu" data-editor="Slide" data-id="58" id="quicknav">
+                    <ol class="breadcrumb">
+                      <li class="breadcrumb-item">
+                        <a href="/shop/index.html">Start</a>
+                        <ul class>
+                          <li>
+                            <a href="/menu/measurement_technologies.html">Measurement</a>
+                          </li>
+                          <li>
+                            <a href="/menu/power.html">Power</a>
+                          </li>
+                          <li>
+                            <a href="/menu/programming_technologies.html">Programming Devices</a>
+                          </li>
+                          <li>
+                            <a href="/shop/soldering/index.html">Soldering Tools</a>
+                          </li>
+                          <li>
+                            <a href="/shop/sales/index.html">Sales%</a>
+                          </li>
+                          <li>
+                            <a href="/shop/shopping/index.html">Information</a>
+                          </li>
+                          <li>
+                            <a href="/shop/electronic/index.html">Know-How</a>
+                          </li>
+                          <li>
+                            <a href="/shop/software/index.html">Software</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li class="breadcrumb-item active">404</li>
+                    </ol>
+                  </nav>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col">
+                  <div class="page_content mb-5" data-context="Content" data-editor="Markdown" data-id="2208"><p><img src="https://www.batronix.com/images/graphics/404.jpg" alt="" /></p> <h1> Sorry ... the page you requested could not be found.</h1> <p>(<a href="https://www.batronix.com/versand/404.html">Deutschsprachige Version dieser Seite</a>)</p> <p>This is either because:</p> <ul> <li>There is an error in the URL you have entered into your browser. Please check the spelling and try again.</li> <li>The page you were looking for may have been moved, updated or deleted.</li> </ul> <p>If you think there is a technical problem, please <a href="mailto:service@batronix.com">contact us</a>.</p> <p>You can return to <a href="https://www.batronix.com/" title="Batronix Elektronik">the start page</a> or use the navigation above.</p> </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <footer>
+          <div class="footer_4c4b49_background">
+            <div class="container-fluid maxwidth footer_4c4b49_container clearfix">
+              <div class="row justify-content-md-center">
+                <div class="col-12 col-sm-6 col-lg-3 mb-3 pl-2 pr-2">
+                  <h5 class="underlined">Contact / Support</h5>
+                  <div class><h6 class="mt-2">Sales &amp; General</h6><a href="tel:+4943429078630"><i class="fa fa-phone"></i>+49 4342 90786-30<br></a><i class="fa fa-fax"></i>+49 4342 90786-90<br><a href="&#x6D;&#x61;&#x69;&#x6C;&#x74;&#x6F;&#x3A;&#x73;&#x65;&#x72;&#x76;&#x69;&#x63;&#x65;&#x40;&#x62;&#x61;&#x74;&#x72;&#x6F;&#x6E;&#x69;&#x78;&#x2E;&#x63;&#x6F;&#x6D;"><i class="fa fa-at"></i>&#x73;&#x65;&#x72;&#x76;&#x69;&#x63;&#x65;&#x40;&#x62;&#x61;&#x74;&#x72;&#x6F;&#x6E;&#x69;&#x78;&#x2E;&#x63;&#x6F;&#x6D;<br></a><h6 class="mt-2">Online</h6><a href="javascript: void(0);" onclick="javascript: window.open('https://support.batronix.com/visitor/index.php?/Default/LiveChat/Chat/Request/_sessionID=/_promptType=chat/_proactive=0/_filterDepartmentID=/_randomNumber=6p6byvwf6993k3mie4phgbc1ijlx1j20/_fullName=/_email=/_languageID=1', 'livechatwin', 'toolbar=0,location=0,directories=0,status=1,menubar=0,scrollbars=0,resizable=1,width=600,height=680');"><i class="far fa-comments"></i>Live Chat<br></a><a href="https://support.batronix.com/index.php?/Default/Tickets/Submit"><i class="far fa-question-circle"></i>Online Ticket<br></a><a href="https://support.batronix.com/index.php?/Default/Knowledgebase/List/Index/4/faq-english"><i class="fas fa-question"></i>FAQ<br></a><a href="https://www.facebook.com/batronix"><i class="fab fa-facebook"></i>Facebook<br></a></div>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3 mb-3 pl-2 pr-2">
+                  <h5 class="underlined">About Batronix</h5>
+                  <div class>
+                    <a href="https://www.batronix.com/shop/shopping/team.html"><i class="fas fa-users"></i>Our Team<br></a>
+                    <a href="https://www.batronix.com/shop/shopping/history.html"><i class="fas fa-history"></i>History<br></a>
+                    <a href="https://www.batronix.com/shop/shopping/ISO9001.html"><i class="fas fa-certificate"></i>ISO 9001<br></a>
+                    <a href="https://www.batronix.com/shop/shopping/ISO14001.html"><i class="fas fa-certificate"></i>ISO 14001<br></a>
+                    <a href="https://www.batronix.com/shop/shopping/reference.html"><i class="fas fa-retweet"></i>References<br></a>
+                    <a href="https://www.batronix.com/shop/shopping/batterydirective.html"><i class="fas fa-battery-empty"></i>Battery Directive<br></a>
+                  </div>
+                  <h5 class="underlined mt-2">Address</h5>
+                  <div class>Batronix GmbH & Co. KG<br> Handelsweg 16<br> 24211 Preetz<br> Germany<br></div>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3 mb-3 pl-2 pr-2">
+                  <h5 class="underlined">Why should you choose Batronix?</h5>
+                  <div class>
+                    <a href="https://www.batronix.com/shop/shopping/Batronix.html#01"><i class="fas fa-long-arrow-alt-right"></i>Best Price Guarantee<br></a>
+                    <a href="https://www.batronix.com/shop/shopping/Batronix.html#02"><i class="fas fa-long-arrow-alt-right"></i>30-Day Return Policy<br></a>
+                    <a href="https://www.batronix.com/shop/shopping/Batronix.html#03"><i class="fas fa-long-arrow-alt-right"></i>Competent Advice<br></a>
+                    <a href="https://www.batronix.com/shop/shopping/Batronix.html#04"><i class="fas fa-long-arrow-alt-right"></i>Excellent Service<br></a>
+                    <a href="https://www.batronix.com/shop/shopping/Batronix.html#05"><i class="fas fa-long-arrow-alt-right"></i>Climate Neutral Shipping<br></a>
+                    <a href="https://www.batronix.com/shop/shopping/Batronix.html#06"><i class="fas fa-long-arrow-alt-right"></i>Free Shipping<br></a>
+                    <a href="https://www.batronix.com/shop/shopping/Batronix.html#07"><i class="fas fa-long-arrow-alt-right"></i>Convenient Payment Methods<br></a>
+                    <a href="https://www.batronix.com/shop/shopping/Batronix.html#08"><i class="fas fa-long-arrow-alt-right"></i>Best References<br></a>
+                  </div>
+                </div>
+                <div class="col-12 col-sm-6 col-lg-3 mb-3 pl-2 pr-2">
+                  <h5 class="underlined">Secure Payment</h5>
+                  <div class><i class="fas fa-file-invoice"></i>On Account<br><i class="fas fa-money-bill-alt"></i>Bank Transfer<br><i class="fab fa-paypal"></i>PayPal<br><i class="far fa-credit-card"></i>Credit Card<br><i class="far fa-hand-peace"></i>SOFORT.<br></div>
+                  <h5 class="underlined mt-2">Shipping</h5>
+                  <div class>
+                    <a href="https://support.batronix.com/index.php?/Default/Knowledgebase/Article/View/27/11/how-much-does-shipping-cost"><i class="fas fa-hand-holding-usd"></i>Shipping Costs<br></a>
+                    <a href="https://support.batronix.com/index.php?/Default/Knowledgebase/Article/View/27/11/how-much-does-shipping-cost"><i class="fas fa-stopwatch"></i>Shipping Time<br></a>
+                  </div>
+                  <h5 class="underlined mt-2">We deliver with</h5>
+                  <div class>
+                    <div class="container-fluid">
+                      <div class="row">
+                        <div class="col-6">
+                          <img alt="DHL GoGreen" class="w-100 lazy" data-src="https://www.batronix.com/images/svg/dhl-gg.svg" src="/images/lazy.gif" width="140">
+                        </div>
+                        <div class="col-6">
+                          <img alt="United Parcel Service - Carbon Free" class="w-100 lazy" data-src="https://www.batronix.com/images/svg/ups-cf.svg" src="/images/lazy.gif" width="140">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="footer_2a2a2a_background">
+            <div class="container-fluid maxwidth footer_2a2a2a_container clearfix">
+              <div class="row justify-content-md-center">
+                <div class="col-auto">&copy; 2023 Batronix GmbH & Co. KG</div>
+                <div class="col-auto">
+                  <a href="https://www.batronix.com/shop/shopping/gtc.html">General Terms</a>
+                </div>
+                <div class="col-auto">
+                  <a href="https://www.batronix.com/shop/shopping/privacy.html">Privacy</a>
+                </div>
+                <div class="col-auto">
+                  <a href="https://www.batronix.com/shop/shopping/contact.html">Contact</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </footer>
+      </div>
+    </div>
+    <div aria-hidden="true" aria-labelledby="b2bonlylabel" class="modal pr-0" data-context id="b2bonly" role="dialog" tabindex="-1">
+      <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title pt-0" id="b2bonlylabel">Information</h4>
+            <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body"><i class="fas fa-exclamation-triangle display-4 float-left mr-3 mb-3 text-warning"></i>Dear customer,<br/> due to current legal conditions we can only process orders to your chosen delivery country from beginning of next year (<a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02006L0112-20200101" target="_blank">Information on value added tax in the EU</a>).  If you wish, you can still send your requests for quotation to our sales team or simply place your order next year. If you have any further questions feel free to contact us by <a href="mailto:service@batronix.com">E-Mail (service@batronix.com)</a>.<br/><br/> Use voucher code "<strong>Batronix2021</strong>" from 01.01.2021 to get a 10% discount on your order. The promotion ends on 10.01.2021.<br/><br/> We are looking forward to your orders!</div>
+          <div class="modal-footer">
+            <button class="btn btn-primary" data-dismiss="modal" type="button">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>window.addEventListener('load',function(event) {  AddTrustedShops('X4B6E963823B31A144BB71486852C2501'); AddKayako('en'); ObserveConsentStatus('klaro','en'); SendConsentStatus(); },false); </script>
+    <script async data-name="klaro-googleAnalytics" data-src="https://www.googletagmanager.com/gtag/js?id=UA-2335747-5" data-type="application/javascript" type="text/plain"></script>
+    <script data-name="klaro-googleAnalytics" data-type="application/javascript" type="text/plain">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);};gtag('js', new Date());gtag('config', 'UA-2335747-5', { 'anonymize_ip': true });gtag('config', 'G-Q8QCWQE777', { 'anonymize_ip': true });</script>
+    <script crossorigin="anonymous" defer integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+    <script crossorigin="anonymous" defer integrity="sha256-x3YZWtRjM8bJqf48dFAv/qmgL68SI4jqNWeSLMZaMGA=" src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+    <script defer src="/js/assets/magiczoomplus/magiczoomplus.js?v=V1.31"></script>
+    <script crossorigin="anonymous" defer integrity="sha256-WqU1JavFxSAMcLP2WIOI+GB2zWmShMI82mTpLDcqFUg=" src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js"></script>
+    <script crossorigin="anonymous" defer integrity="sha256-MvL1jf50gmloWCyAbHahSsBOBbeUtcvavfD6eSpGjvA=" src="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.15/dist/js/bootstrap-select.min.js"></script>
+    <script defer src="/js/js.php?js=script&v=V1.31"></script>
+    <script defer src="/js/vendor-config/klaro/config.js?v=V1.31"></script>
+    <script data-config="klaroConfig" defer src="/js/assets/klaro/klaro.js?v=V1.31"></script>
+    <div id="klaro"></div>
+  </body>
+</html>
